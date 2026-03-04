@@ -1,0 +1,10 @@
+{
+  "name": "security-engineer",
+  "description": "Application security — STRIDE threat modeling, OWASP audit, pen test planning, compliance validation",
+  "version": "1.0.0",
+  "author": {
+    "name": "nagisanzenin"
+  },
+  "license": "MIT",
+  "keywords": ["security", "owasp", "stride", "threat-modeling", "compliance", "penetration-testing"]
+}
